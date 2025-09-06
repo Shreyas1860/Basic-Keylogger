@@ -22,7 +22,7 @@ By using this project, you agree that you are fully responsible for your own act
 1. Clone this repository:
    ```bash
    git clone https://github.com/Shreyas1860/Basic-Keylogger.git
-   cd Keylogger
+   cd KeyLogger
 2. Run the .py file
    ```bash
    python3 ./keylogger.py
